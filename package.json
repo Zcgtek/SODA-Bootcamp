@@ -1,0 +1,22 @@
+{
+  "name": "soda-bootcamp",
+  "version": "1.0.0",
+  "description": "heehee haha",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zcgtek/SODA-Bootcamp.git"
+  },
+  "author": "Zackary Guajardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zcgtek/SODA-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/Zcgtek/SODA-Bootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
